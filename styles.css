@@ -1,6 +1,7 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 12px;
+    color:hsl(237, 12%, 33%);
     background-image: linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%));
     background-repeat: no-repeat;
     height:665px;
@@ -41,6 +42,7 @@ body{
 
 h1{
     font-size: 34px;
+    color:  hsl(238, 29%, 16%);
 }
 .arrow{
     float:right;
@@ -73,7 +75,7 @@ input[type=checkbox]{
 }
 input[type=checkbox]:checked + label{
     font-weight: bold;
-    color:black;
+    color: hsl(237, 12%, 33%);
 }
 input[type=checkbox]:checked ~.arrow{
     transform: rotateZ(-180deg);   
@@ -81,11 +83,11 @@ input[type=checkbox]:checked ~.arrow{
 
 input[type=checkbox]:checked ~.answer-p{
     display:block;
-    color:hsl(238, 29%, 16%);
+    color:hsl(240, 6%, 50%);
 }
 
 hr{
-    color: hsla(240, 4%, 91%, 0.281);
+    color: hsl(240, 6%, 50%);
 }
 
 
@@ -139,8 +141,7 @@ hr{
    }
 
    hr{
-       border:none;
-       background-color:hsla(240, 49%, 21%, 0.116);
+      color:hsl(240, 6%, 50%);
        width:85%;
    }
 }
