@@ -1,5 +1,5 @@
 
-# Frontend Mentor - FAQ accordion card solution
+# Frontend Mentor - FAQ accordion card 
 
 This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Luzanne-S/FAQ-Accordian-)
-- Live Site URL: [Add live site URL here](https://luzanne-s.github.io/FAQ-Accordian-/)
+- Solution URL: [https://github.com/Luzanne-S/FAQ-Accordian-]
+- Live Site URL: [https://luzanne-s.github.io/FAQ-Accordian-/]
 
 ## My process
 Started with the desktop html layout, then created a css file and added styling, once the styling was complete I created media queries to make the page responsive to a mobile device with the width of 375px.
